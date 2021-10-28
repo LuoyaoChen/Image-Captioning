@@ -1,1 +1,1 @@
-# CS6953_Proj
+# Class Project for Deep Learning: Image captioning
