@@ -1,1 +1,3 @@
-# Class Project for Deep Learning: Image captioning
+# Image captioning
+## Train
+use python train.py
