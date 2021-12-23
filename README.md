@@ -11,3 +11,9 @@ use python train.py
 ## Model
 We used ResNet101 as Encoder and Attention-based LSTM Cells.
 ![Encoder - Decoder (Attention - Based LSTM)](Model.png)
+
+
+## Inference
+![ResNet50-FineTune_E15_checkpt13_img_14000_bs_3](./Attention_Map/ResNet50/FineTune_E15_checkpt13_img_14000_bs_3.png)
+![ResNet50-FineTune_E15_checkpt13_img_14000_bs_3](./Attention_Map/ResNet101/FineTune_E12_checkpt_13_img_14000_bs_3.png)
+![ResNet50-FineTune_E15_checkpt13_img_14000_bs_3](./Attention_Map/ResNet152/FineTune_E16_checkpt_7_img_14000_bs_3.png)
