@@ -7,3 +7,7 @@ The original dataset contains 113287 images; For raining/testing convenience, we
 - Test: 5,000 instances have split arrtibute {'TEST'} 
 ## Train
 use python train.py
+
+## Model
+We used ResNet101 as Encoder and Attention-based LSTM Cells.
+![Encoder - Decoder (Attention - Based LSTM)](Model.png)
